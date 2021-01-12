@@ -1,0 +1,20 @@
+name: geocomp6
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip
+  - gdal
+  - fiona  
+  - rasterio
+  - pip:
+    - numpy
+    - pandas
+    - keplergl
+    - geopandas
+    - shapely
+    - folium
+    - pysal
+    
+    
+    
