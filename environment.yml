@@ -1,4 +1,4 @@
-name: geocomp6
+name: geocomp
 channels:
   - conda-forge
 dependencies:
